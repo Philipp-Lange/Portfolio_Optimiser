@@ -1,0 +1,1 @@
+Simple tool for optimising a portfolio of stocks.
